@@ -1,0 +1,4 @@
+asyncio==3.4.3
+websockets==9.1
+streamlit==0.92.0
+pandas==1.3.3
